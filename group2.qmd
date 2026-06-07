@@ -12,7 +12,7 @@ format:
 ## Team Members
 
 - **Member 1** - *Role / Interest*
-- **Member 2** - *Role / Interest*
+- **Juan Arquero** - *Researcher / Route Planning Algorithms*
 - **Member 3** - *Role / Interest*
 - **Member 4** - *Role / Interest*
 
